@@ -10,10 +10,10 @@ Outputs : JSON representation of the data in the "Temperature Section" (Actual M
 
 To run this application using Eclipse: 
 
-Export the java project in to a Runnable jar - using Eclipse IDE
-Select the ScreenScraperWeatherInformation 
-Open command prompt go to the directory where runnable jar is available
-type > java -jar Runnable.jar location_name date
+1) Export the java project in to a Runnable jar - using Eclipse IDE
+2) Select the ScreenScraperWeatherInformation 
+3) Open command prompt go to the directory where runnable jar is available
+4) type > java -jar Runnable.jar location_name date
 
 note* - The main class takes in two parametrs 
 1) location_name eg. "Buffalo NY"
